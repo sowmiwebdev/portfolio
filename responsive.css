@@ -11,6 +11,10 @@
 }
 /* navContainer */
 @media(max-width:576px){
+    .html{
+        overflow: hidden;
+        width: 100%;
+    }
     .navLinks{
         display: none;
         position: absolute;
@@ -65,12 +69,11 @@
         margin-left: 25px;
     }
     .ss-Card{
-        width:250px;
+        width:270px;
         margin-left: 10px;
     }
     .cardContainer{
         padding:50px 25px;
-
     }
     .ss-Box{
         padding: 40px 70px 20px;
