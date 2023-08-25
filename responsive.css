@@ -14,7 +14,7 @@
     .navLinks{
         display: none;
         position: absolute;
-        margin-top: 136%;
+        margin-top: 106%;
         margin-left: 10px;
         height: 40%;
         background-color: black;
@@ -79,7 +79,7 @@
         padding: 20px 12px 20px;
    }
    .pro-Card{
-        width:55%;
+        width:65%;
         margin-left: 25px;
    }
    .table{
