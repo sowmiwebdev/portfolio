@@ -86,7 +86,9 @@
     border-bottom: 2px solid white;
 }
 .about-Image img{
-    padding: 100px 200px 0; 
+    /* padding: 100px 200px 0;  */
+    margin-left: 200px;
+  
 }
 .aboutSection h1{
     font-family: 'Merienda', cursive;
@@ -98,6 +100,7 @@
     color: aqua;
 }
 .aboutSection p{
+    width: 80%;
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 10px;
@@ -299,7 +302,6 @@
 }
 .table{
     padding: 50px 200px 50px 330px;
-    text-align: left;
 }
 .tfbox{
     padding: 10px ;
