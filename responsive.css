@@ -40,7 +40,7 @@
         flex-direction: column;
     }
     .jumbotron h1{
-        font-size: 30px;
+        font-size: 25px;
         width: 80%;
     }
     .heroSection{
@@ -52,10 +52,21 @@
     .aboutSection{
         flex-direction: column;
         width: 100%;
-        padding-left: 10px;
+        padding-left: 25px;
     }
     .about-Image img{
-        padding: 10px 200px 0; 
+        width: 350px;
+        margin-left: 10px;
+    }
+    .skills-Name{
+        flex-direction: column;
+    }
+    .sname2{
+        margin-left: 15px;
+    }
+    .ss-Card{
+        width:250px;
+        margin-left: 25px;
     }
     .cardContainer{
         padding:50px 10px;
@@ -67,22 +78,29 @@
         padding: 20px 12px 20px;
    }
    .pro-Card{
-        width:85%;
+        width:65%;
+        margin-left: 45px;
    }
    .table{
     padding: 20px 7px 20px;
+    margin-left: 60px;
+   }
+   .tfbox{
+    width: 300px;
    }
    .tfbox1 , .tfbox2{
-    width: 436px;
+    width: 300px;
    }
    .table button{
-    width: 435px;
+    width: 300px;
    }
    .footerContainer{
-    padding: 20px 80px 40px;
+    padding: 20px 20px 40px;
    }
    .footerSection{
     flex-direction: column;
     line-height: 3rem;
+    /* width: 100%; */
    }
+   
 }
