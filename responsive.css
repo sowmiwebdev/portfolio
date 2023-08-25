@@ -14,7 +14,7 @@
     .navLinks{
         display: none;
         position: absolute;
-        margin-top: 106%;
+        margin-top: 116%;
         margin-left: 10px;
         height: 40%;
         background-color: black;
@@ -62,14 +62,15 @@
         flex-direction: column;
     }
     .sname2{
-        margin-left: 20px;
+        margin-left: 25px;
     }
     .ss-Card{
         width:250px;
         margin-left: 10px;
     }
     .cardContainer{
-        padding:50px 10px;
+        padding:50px 25px;
+
     }
     .ss-Box{
         padding: 40px 70px 20px;
@@ -78,7 +79,7 @@
         padding: 20px 12px 20px;
    }
    .pro-Card{
-        width:65%;
+        width:55%;
         margin-left: 25px;
    }
    .table{
