@@ -246,6 +246,7 @@
 .pro-Card{
     background-color: #3c3c41;
     border-radius: 20px;
+    border: 1px solid white;
 }
 .pro-cardBody{
     padding: 20px;
