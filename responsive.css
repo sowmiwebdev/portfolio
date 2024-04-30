@@ -29,6 +29,7 @@
     }
     .checkBtn{
         display: block;
+        cursor: pointer;
     }
     #check:checked ~ .navLinks{
         display: block;
@@ -36,7 +37,6 @@
     .navLinks li{
         padding: 10px;
     }
-    
 }
 
 @media(max-width:576px){
